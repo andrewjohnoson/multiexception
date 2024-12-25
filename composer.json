@@ -1,0 +1,20 @@
+{
+  "name": "andrew/multiexception",
+  "description": "Allow to output several exceptions",
+  "keywords": ["multiexception", "andrew"],
+  "homepage": "https://github.com/andrewjohnoson/multiexception",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "andrewjohnson"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Andrew\\Multiexception\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
